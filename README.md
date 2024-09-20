@@ -40,6 +40,13 @@ To set up and run the application, follow these steps:
 
 1. **Install Flutter**: Ensure that you have Flutter installed on your machine. If not, you can follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-2. **Get dependencies**: Open your terminal in the project directory and run:
+2. **Change Directory**: Open your terminal in the project directory and run:
+   ```bash
+   cd Ecommerce-API-master
+3. **Get dependencies**: In the terminal, run this command to import all dependancies:
    ```bash
    flutter pub get
+4. **Run**: Run the app by executing:
+   ```bash
+   flutter run
+
