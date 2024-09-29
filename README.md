@@ -13,9 +13,9 @@ This is a Flutter-based eCommerce application that utilizes the Fake Store API t
 
 ## Features
 
-- Browse products from various categories
-- View product details, including images and descriptions
-- Add products to the shopping cart
+- User Authentication
+- Product Sort and Filtering 
+- Cart Functionality
 - Checkout functionality (basic implementation)
 - User-friendly interface with Material Design
 
